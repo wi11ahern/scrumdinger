@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		3D2DA303271383DE00F6A88F /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D2DA302271383DE00F6A88F /* DetailView.swift */; };
+		3D2DA3052715069900F6A88F /* EditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D2DA3042715069900F6A88F /* EditView.swift */; };
 		3D8FB355270A829300611F8C /* ScrumdingerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D8FB354270A829300611F8C /* ScrumdingerApp.swift */; };
 		3D8FB357270A829300611F8C /* MeetingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D8FB356270A829300611F8C /* MeetingView.swift */; };
 		3D8FB359270A829500611F8C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3D8FB358270A829500611F8C /* Assets.xcassets */; };
@@ -19,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		3D2DA302271383DE00F6A88F /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		3D2DA3042715069900F6A88F /* EditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditView.swift; sourceTree = "<group>"; };
 		3D8FB351270A829300611F8C /* Scrumdinger.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Scrumdinger.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3D8FB354270A829300611F8C /* ScrumdingerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumdingerApp.swift; sourceTree = "<group>"; };
 		3D8FB356270A829300611F8C /* MeetingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingView.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 		3D8FB353270A829300611F8C /* Scrumdinger */ = {
 			isa = PBXGroup;
 			children = (
+				3D2DA3042715069900F6A88F /* EditView.swift */,
 				3D8FB354270A829300611F8C /* ScrumdingerApp.swift */,
 				3D8FB356270A829300611F8C /* MeetingView.swift */,
 				3D8FB358270A829500611F8C /* Assets.xcassets */,
@@ -153,6 +156,7 @@
 				3D2DA303271383DE00F6A88F /* DetailView.swift in Sources */,
 				3DEF6346270FB60D00CA5398 /* DailyScrum.swift in Sources */,
 				3DEF6348270FC69700CA5398 /* CardView.swift in Sources */,
+				3D2DA3052715069900F6A88F /* EditView.swift in Sources */,
 				3DEF634C2711007B00CA5398 /* ScrumsView.swift in Sources */,
 				3D8FB355270A829300611F8C /* ScrumdingerApp.swift in Sources */,
 			);
